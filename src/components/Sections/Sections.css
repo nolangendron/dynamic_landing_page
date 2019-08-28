@@ -1,0 +1,7 @@
+.grid {
+  grid-column: 9 / span 4;
+}
+.sectionContainer {
+  height: 100vh;
+  overflow: auto;
+}
